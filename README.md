@@ -6,4 +6,6 @@ Hello! Welcome to this totally real app
 
 * gcc
 * glib-c
+* postgres
+* redis
 
